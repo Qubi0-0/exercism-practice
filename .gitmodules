@@ -6,4 +6,4 @@
 	url = git@github.com:Qubi0-0/learning-rust.git
 [submodule "javascript"]
 	path = javascript
-	url = git git@github.com:Qubi0-0/js-learn.git
+	url = git@github.com:Qubi0-0/js-learn.git
