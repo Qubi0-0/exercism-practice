@@ -1,0 +1,6 @@
+[submodule "cpp"]
+	path = cpp
+	url = git@github.com:Qubi0-0/cpp-learn.git
+[submodule "rust"]
+	path = rust
+	url = git@github.com:Qubi0-0/learning-rust.git
